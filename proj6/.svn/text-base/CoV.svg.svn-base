@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1000" height="902" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="stroke:black;fill:lightgreen" transform="translate(30,30)">
+<line x1="456" y1="54" x2="456" y2="92" style="stroke:blue; stroke-width:1"/>
+<line x1="456" y1="92" x2="457" y2="92" style="stroke:blue; stroke-width:1"/>
+<line x1="456" y1="54" x2="456" y2="16" style="stroke:blue; stroke-width:1"/>
+<line x1="456" y1="16" x2="456" y2="16" style="stroke:blue; stroke-width:1"/>
+<line x1="391" y1="360" x2="391" y2="398" style="stroke:blue; stroke-width:1"/>
+<line x1="391" y1="398" x2="418" y2="398" style="stroke:blue; stroke-width:1"/>
+<line x1="391" y1="360" x2="391" y2="321" style="stroke:blue; stroke-width:1"/>
+<line x1="391" y1="321" x2="419" y2="321" style="stroke:blue; stroke-width:1"/>
+<line x1="419" y1="818" x2="419" y2="856" style="stroke:blue; stroke-width:1"/>
+<line x1="419" y1="856" x2="424" y2="856" style="stroke:blue; stroke-width:1"/>
+<line x1="419" y1="818" x2="419" y2="780" style="stroke:blue; stroke-width:1"/>
+<line x1="419" y1="780" x2="421" y2="780" style="stroke:blue; stroke-width:1"/>
+<line x1="561" y1="512" x2="561" y2="551" style="stroke:blue; stroke-width:1"/>
+<line x1="561" y1="551" x2="834" y2="551" style="stroke:blue; stroke-width:1"/>
+<line x1="561" y1="512" x2="561" y2="474" style="stroke:blue; stroke-width:1"/>
+<line x1="561" y1="474" x2="739" y2="474" style="stroke:blue; stroke-width:1"/>
+<line x1="542" y1="570" x2="542" y2="627" style="stroke:blue; stroke-width:1"/>
+<line x1="542" y1="627" x2="763" y2="627" style="stroke:blue; stroke-width:1"/>
+<line x1="289" y1="636" x2="289" y2="703" style="stroke:blue; stroke-width:1"/>
+<line x1="289" y1="703" x2="688" y2="703" style="stroke:blue; stroke-width:1"/>
+<line x1="406" y1="178" x2="406" y2="245" style="stroke:blue; stroke-width:1"/>
+<line x1="406" y1="245" x2="448" y2="245" style="stroke:blue; stroke-width:1"/>
+<line x1="439" y1="111" x2="439" y2="169" style="stroke:blue; stroke-width:1"/>
+<line x1="439" y1="169" x2="462" y2="169" style="stroke:blue; stroke-width:1"/>
+<line x1="439" y1="111" x2="439" y2="54" style="stroke:blue; stroke-width:1"/>
+<line x1="439" y1="54" x2="456" y2="54" style="stroke:blue; stroke-width:1"/>
+<line x1="325" y1="269" x2="325" y2="360" style="stroke:blue; stroke-width:1"/>
+<line x1="325" y1="360" x2="391" y2="360" style="stroke:blue; stroke-width:1"/>
+<line x1="16" y1="635" x2="16" y2="818" style="stroke:blue; stroke-width:1"/>
+<line x1="16" y1="818" x2="419" y2="818" style="stroke:blue; stroke-width:1"/>
+<line x1="542" y1="570" x2="542" y2="512" style="stroke:blue; stroke-width:1"/>
+<line x1="542" y1="512" x2="561" y2="512" style="stroke:blue; stroke-width:1"/>
+<line x1="289" y1="636" x2="289" y2="570" style="stroke:blue; stroke-width:1"/>
+<line x1="289" y1="570" x2="542" y2="570" style="stroke:blue; stroke-width:1"/>
+<line x1="16" y1="635" x2="16" y2="636" style="stroke:blue; stroke-width:1"/>
+<line x1="16" y1="636" x2="289" y2="636" style="stroke:blue; stroke-width:1"/>
+<line x1="16" y1="635" x2="16" y2="269" style="stroke:blue; stroke-width:1"/>
+<line x1="16" y1="269" x2="325" y2="269" style="stroke:blue; stroke-width:1"/>
+<line x1="325" y1="269" x2="325" y2="178" style="stroke:blue; stroke-width:1"/>
+<line x1="325" y1="178" x2="406" y2="178" style="stroke:blue; stroke-width:1"/>
+<line x1="406" y1="178" x2="406" y2="111" style="stroke:blue; stroke-width:1"/>
+<line x1="406" y1="111" x2="439" y2="111" style="stroke:blue; stroke-width:1"/>
+<text x="428" y="862" font-weight = "10" font-family="verdana" fill="red" font-size="17">AAP41037.1</text>
+<text x="425" y="786" font-weight = "10" font-family="verdana" fill="red" font-size="17">AAV49723.1</text>
+<text x="692" y="709" font-weight = "10" font-family="verdana" fill="red" font-size="17">NP_040831.1</text>
+<text x="767" y="633" font-weight = "10" font-family="verdana" fill="red" font-size="17">BAA06805.1</text>
+<text x="838" y="557" font-weight = "10" font-family="verdana" fill="red" font-size="17">NP_598310.1</text>
+<text x="743" y="480" font-weight = "10" font-family="verdana" fill="red" font-size="17">S41453</text>
+<text x="422" y="404" font-weight = "10" font-family="verdana" fill="red" font-size="17">YP_209233.1</text>
+<text x="423" y="327" font-weight = "10" font-family="verdana" fill="red" font-size="17">NP_045300.1</text>
+<text x="452" y="251" font-weight = "10" font-family="verdana" fill="red" font-size="17">AAL80031.1</text>
+<text x="466" y="175" font-weight = "10" font-family="verdana" fill="red" font-size="17">NP_937950.1</text>
+<text x="461" y="98" font-weight = "10" font-family="verdana" fill="red" font-size="17">AAL57308.1</text>
+<text x="460" y="22" font-weight = "10" font-family="verdana" fill="red" font-size="17">AAK83356.1</text>
+</g></svg>

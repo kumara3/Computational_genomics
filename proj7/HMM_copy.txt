@@ -1,0 +1,6 @@
+states = HF
+observation = ('normal', 'cold', 'dizzy')
+start_probability = {'H': 0.6, 'L': 0.4}
+emission_probability = {'H' : {'normal': 0.5, 'cold': 0.4,'dizzy':0.1},'L' : {'normal': 0.1, 'cold': 0.6,'dizzy':0.3}}
+Transition_probability = {'H' : {'H': 0.7, 'L': 0.3},'L' : {'H': 0.4, 'L': 0.6}}
+

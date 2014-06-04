@@ -1,0 +1,3 @@
+[] ,[0]
+The first coordinate in the list corresponds to High GC content followed by Low GC content
+The second coordinate in the list corresponds to Low GC content followed by high GC content

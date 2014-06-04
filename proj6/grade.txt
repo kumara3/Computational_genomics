@@ -1,0 +1,8 @@
+
+Download code (10 points): 10
+Alignment / tree generation (10 points): 10
+CoV.fa / CoV.dist files (10 points): 10
+CoV.tree / CoV.svg (10 points): 10 
+Conclusions / documents (10 points): 10
+
+Total (50 points): 50
